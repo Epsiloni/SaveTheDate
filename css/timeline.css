@@ -36,7 +36,7 @@
   z-index: 2;
 }
 .path-container .path-item .circle.circle-left {
-  left: 6px;
+  left: 0px;
 }
 .path-container .path-item .circle.circle-right {
   right: 4px;
