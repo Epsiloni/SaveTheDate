@@ -26,7 +26,8 @@
   width: 128px;
   height: 128px;
   position: relative;
-  margin-bottom: 100px;
+  margin-bottom: 6px;
+  margin-top: 50px;
   z-index: 2;
 }
 .path-container .path-item .circle.circle-left {
